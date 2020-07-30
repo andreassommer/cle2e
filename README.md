@@ -21,4 +21,4 @@ If anything goes wrong, increasing the verbosity level might help to figure out 
 ##
 
 Reverse-engineering of the E2E file format was done by Christian Heine.  
-See https://bitbucket.org/uocte/uocte/wiki/Heidelberg%20File%20Format7
+See https://bitbucket.org/uocte/uocte/wiki/Heidelberg%20File%20Format  
