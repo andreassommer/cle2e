@@ -13,7 +13,7 @@ Use Common-Lisp to run, preferably SBCL.
    <code>(in-package :cle2e)</code>
 4) Extract the images from the e2e-file "data.e2e"  
    <code>(process-e2e-file "data.e2e")</code>  
-   The programm will auto-generate BMP-files according to the pattern <patientname>-<birthday>-<side>-<type>-<runningnumber>.bmp
+   The programm will auto-generate BMP-files according to the pattern ´´´<patientname>-<birthday>-<side>-<type>-<runningnumber>.bmp´´´
 
 If anything goes wrong, increasing the verbosity level might help to figure out the source of trouble:  
 <code>(choose-verbosity :max)</code>
